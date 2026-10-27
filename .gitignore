@@ -7,3 +7,5 @@ __pycache__/
 *.db-wal
 *.db-shm
 .pytest_cache/
+# Видео для README: загружено через редактор GitHub, в репозиторий не кладём
+demo/

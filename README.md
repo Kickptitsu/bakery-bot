@@ -4,6 +4,13 @@ Telegram-бот для приёма заказов в пекарне. Учебн
 
 **Стек:** Python 3.11+, [aiogram 3](https://docs.aiogram.dev/), SQLite ([aiosqlite](https://github.com/omnilib/aiosqlite)).
 
+## Демонстрация
+
+https://github.com/user-attachments/assets/a5d33b61-c38d-47d5-9d49-833adadd97ee
+
+Видео (2,5 минуты): каталог и корзина, оформление заказа с доставкой, оплата тестовой картой,
+смена статусов менеджером, удаление персональных данных.
+
 ## Возможности
 
 **Для клиента**
